@@ -16,7 +16,12 @@ Project consists of reading information from a file about mined rock with gold o
 
 <h2>Program sample output:</h2>
 
-<p align="center">Terminal Output:</p>
+<p align="center">Payloads File Input:</p>
 <p align="center">
-  <img src="./photos/RiemannSumsOutput.png" alt="Alt Text" width="500" height="300">
+  <img src="./photos/GoldInput.png" alt="Alt Text" width="200" height="300">
+</p>
+
+<p align="center">File Output to User:</p>
+<p align="center">
+  <img src="./photos/GoldOutput.png" alt="Alt Text" width="300" height="300">
 </p>
