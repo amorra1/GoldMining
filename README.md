@@ -23,5 +23,5 @@ Project consists of reading information from a file about mined rock with gold o
 
 <p align="center">File Output to User:</p>
 <p align="center">
-  <img src="./photos/GoldOutput.png" alt="Alt Text" width="300" height="300">
+  <img src="./photos/GoldOutput.png" alt="Alt Text" width="300" height="250">
 </p>
